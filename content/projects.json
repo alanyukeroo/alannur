@@ -196,7 +196,7 @@
     "description": "Visual remote-sensing prototype capturing plant nutrition data and stem size. End-to-end communication pipeline from microcontroller to MERN backend server for agricultural monitoring.",
     "year": "2019",
     "role": "Researcher",
-    "image": "/images/projects/smart-farming.jpg",
+    "image": "/images/projects/aizd.png",
     "gallery": [],
     "links": [
       { "label": "Details", "url": "#" }
