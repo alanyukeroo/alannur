@@ -1,0 +1,15 @@
+[
+  { "year": "2023", "venue": "Princeton University", "type": "Invited Speaker" },
+  { "year": "2022", "venue": "UC Berkeley EECS", "type": "Invited Speaker" },
+  { "year": "2022", "venue": "ICML 2022 (Baltimore, MD)", "type": "Invited Speaker" },
+  { "year": "2021", "venue": "CMU, On-Device Machine Learning", "type": "Guest Lecture" },
+  { "year": "2021", "venue": "Apple Machine Learning Summit", "type": "Presenter and Organizer" },
+  { "year": "2021", "venue": "CMU Portugal", "type": "Invited Speaker" },
+  { "year": "2020", "venue": "ACM Dev Summit", "type": "Invited Panelist" },
+  { "year": "2019", "venue": "MIT EECS (Cambridge, MA)", "type": "Invited Speaker" },
+  { "year": "2019", "venue": "Yale University CS (New Haven, CT)", "type": "Invited Speaker" },
+  { "year": "2019", "venue": "Cornell CIS (Ithaca, NY)", "type": "Invited Speaker" },
+  { "year": "2019", "venue": "UCLA CS (Los Angeles, CA)", "type": "Invited Speaker" },
+  { "year": "2018", "venue": "Snap Research", "type": "Invited Speaker" },
+  { "year": "2018", "venue": "Apple Hardware Technologies (Cupertino, CA)", "type": "Invited Speaker" }
+]

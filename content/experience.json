@@ -1,0 +1,72 @@
+[
+  {
+    "company": "Global Innovation Exchange, University of Washington",
+    "role": "IT Specialist",
+    "period": "Sep 2025 - Present",
+    "location": "Bellevue, WA",
+    "description": "Provide L1-L3 customer-facing IT support; analyze data from incidents, logs, and user feedback to identify root causes and recurring patterns, coordinate resources across teams, and propose data-driven improvements. Maintain A/V infrastructure and documentation while resolving 15+ JIRA tickets weekly."
+  },
+  {
+    "company": "Tulibot (AI Captioning Smart Glasses for Deaf)",
+    "role": "Founder",
+    "period": "May 2020 - Sep 2025",
+    "location": "",
+    "description": "Owned end-to-end development for an assistive tech platform; defined product strategy and roadmap, conducted research and Market Analysis. Shipped features that reached 5,000+ users in 6 months with 15% MoM retention; used analytics and user feedback to measure product performance."
+  },
+  {
+    "company": "Fixransomware.com",
+    "role": "Chief Technology Officer",
+    "period": "Dec 2022 - Jun 2025",
+    "location": "",
+    "description": "Led the full product development lifecycle and SDLC; translated stakeholder needs into user-centered requirements and user stories. Tracked performance metrics and user feedback to scale the platform to 2,000+ users. Directed technical strategy and operations, delivering cost-effective, trustworthy solutions."
+  },
+  {
+    "company": "Tokopedia (Bytedance TikTok)",
+    "role": "Software Engineer",
+    "period": "Sep 2021 - Dec 2022",
+    "location": "",
+    "description": "Designed and developed high-throughput microservices and distributed systems (Go, gRPC, Kafka) processing 10M+ daily updates with 99% uptime. Drove continuous system enhancement and managed CI/CD pipelines (Kubernetes, ArgoCD), reducing deployment failures by 20%."
+  },
+  {
+    "company": "EUREKA.AI",
+    "role": "Business Analyst",
+    "period": "Dec 2020 - Mar 2021",
+    "location": "",
+    "description": "Designed the next generation Online Intelligence service for EUREKA Omni with management consulting approach. Built Issue Tree using DSPS framework; interviewed customer representatives; created prioritized features roadmap for chosen industry."
+  },
+  {
+    "company": "PENS Google Developer Student Club",
+    "role": "Leader",
+    "period": "May 2019 - Jul 2020",
+    "location": "",
+    "description": "Delivered presentations on building developer communities through hands-on workshops. Hosted Cloud Study Jam for 30 participants. Taught 25+ students Anaconda & OpenCV for ML projects. Organized 5 weekly classes (AI, IoT, Cloud, Web, Mobile)."
+  },
+  {
+    "company": "Software Expo 2019",
+    "role": "Event Lead",
+    "period": "Dec 2018 - Jan 2019",
+    "location": "",
+    "description": "Coordinated resources with a co-lead from Informatics. Defined committee roles, executed event preparation end-to-end with risk management. Enabled 35 teams to successfully register through improved processes and communication."
+  },
+  {
+    "company": "EEPIS Robotics Research Center",
+    "role": "Researcher - AizD Smart Farming",
+    "period": "Sep 2018 - Oct 2019",
+    "location": "",
+    "description": "Built a visual remote-sensing prototype to capture nutrition information and stem size. Developed an end-to-end communication pipeline from microcontroller to backend server (MERN)."
+  },
+  {
+    "company": "EEPIS Robotics Soccer on Wheeled [ERSOW]",
+    "role": "Researcher",
+    "period": "Sep 2017 - Oct 2018",
+    "location": "",
+    "description": "Collected and labeled ball-sensing data for a detection algorithm on a 3-wheeled soccer robot. Built the visual navigation system (ball-tracking algorithm, detection, vision-based localization)."
+  },
+  {
+    "company": "PT Sisindokom Lintasbuana",
+    "role": "Network Engineer",
+    "period": "Dec 2016 - Mar 2017",
+    "location": "",
+    "description": "Implemented Cisco Small Cell solutions (WLC 2504, Aironet 3700, USC Controller 8088, VMware ESXi). Performed stress-traffic testing and RFC2544 testing to validate reliability."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Foundation Models Framework",
+    "description": "In collaboration with SWE, Foundation Models framework enables on-device AI capabilities.",
+    "image": "/images/features/foundation-models.jpg",
+    "url": "#"
+  },
+  {
+    "title": "Xcode with ChatGPT",
+    "description": "Enable Xcode built-in support for ChatGPT, allowing developers to connect LLMs directly into their coding experience.",
+    "image": "/images/features/xcode-chatgpt.jpg",
+    "url": "#"
+  },
+  {
+    "title": "Always-On Display",
+    "description": "Innovative always-on display technology for mobile devices.",
+    "image": "/images/features/always-on.jpg",
+    "url": "#"
+  },
+  {
+    "title": "Crash Detection",
+    "description": "Advanced sensor fusion for vehicle crash detection on mobile and wearable devices.",
+    "image": "/images/features/crash-detection.jpg",
+    "url": "#"
+  }
+]

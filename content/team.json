@@ -1,0 +1,9 @@
+[
+  { "name": "Alan Nur", "role": "Lead Engineer", "photo": "/images/team/member1.jpg", "url": "#" },
+  { "name": "Dr. Jane Smith", "role": "Senior Research Scientist", "photo": "/images/team/member2.jpg", "url": "#" },
+  { "name": "John Park", "role": "Senior ML Engineer", "photo": "/images/team/member3.jpg", "url": "#" },
+  { "name": "Dr. Sarah Chen", "role": "Research and Engineering Manager", "photo": "/images/team/member4.jpg", "url": "#" },
+  { "name": "Michael Torres", "role": "ML Engineer", "photo": "/images/team/member5.jpg", "url": "#" },
+  { "name": "Emily Davis", "role": "Research Scientist", "photo": "/images/team/member6.jpg", "url": "#" },
+  { "name": "David Kim", "role": "Senior Software Engineer", "photo": "/images/team/member7.jpg", "url": "#" }
+]

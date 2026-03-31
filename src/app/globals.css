@@ -1,0 +1,43 @@
+@import "tailwindcss";
+
+@theme inline {
+  --font-sans: var(--font-inter);
+  --font-serif: var(--font-playfair);
+}
+
+body {
+  background: #ffffff;
+  color: #1a1a1a;
+}
+
+.section-heading {
+  font-family: var(--font-playfair);
+  font-weight: 900;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  font-size: 1.75rem;
+  line-height: 1.2;
+  margin-bottom: 0.5rem;
+}
+
+.section-heading::after {
+  content: "";
+  display: block;
+  width: 3rem;
+  height: 3px;
+  background: #1a1a1a;
+  margin-top: 0.75rem;
+}
+
+.press-link {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.press-link:hover {
+  color: #555;
+}
+
+html {
+  scroll-behavior: smooth;
+}

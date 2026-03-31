@@ -1,0 +1,37 @@
+[
+  {
+    "institution": "University of Washington",
+    "degree": "Master of Science in Technology Innovation (Robotics)",
+    "period": "2025 - 2027"
+  },
+  {
+    "institution": "Imperial College Business School",
+    "degree": "Venture Catalyst Challenge — Entrepreneurship Programme",
+    "period": "Dec 2023 - Apr 2024",
+    "description": "Three-month competitive entrepreneurship program. Awarded 1st Runner Up Social Impact Award."
+  },
+  {
+    "institution": "National University of Singapore",
+    "degree": "Short Course Programme — Business & Innovation",
+    "period": "2024",
+    "description": "Awarded through 1st place finish at LPDP Business Competition 2024."
+  },
+  {
+    "institution": "Texas McCombs School of Business",
+    "degree": "YSEALI Academic Fellowship — Social Entrepreneurship",
+    "period": "2023",
+    "description": "U.S. State Department fellowship at UT Austin focused on leadership, cross-cultural exchange, and professional growth."
+  },
+  {
+    "institution": "Electronic Engineering Polytechnic Institute of Surabaya",
+    "degree": "Bachelor of Engineering, Computer Engineering",
+    "period": "2017 - 2021",
+    "description": "Curriculum included Algorithms, usability, quantitative analysis, and data science foundations."
+  },
+  {
+    "institution": "IDN Foundation",
+    "degree": "System Administration Student",
+    "period": "2016 - 2017",
+    "description": "Authored two technical books on Red Hat Enterprise Server and OpenStack, used as training materials."
+  }
+]

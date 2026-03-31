@@ -1,0 +1,27 @@
+{
+  "courses": [
+    "University, On-Device Machine Learning",
+    "University, Programming User Interfaces",
+    "University, Designing Human-Centered Systems",
+    "University, Signal Processing and Electronics Prototyping",
+    "University, User-Centered Research and Evaluation",
+    "University, Needs Assessment and Usability Evaluation",
+    "University, Introduction to Programming"
+  ],
+  "reviewing": [
+    { "venue": "ACM CHI", "years": "'13 '14 '15 '16 '17 '18 '19 '20 '21 '22" },
+    { "venue": "ACM UIST", "years": "'14 '15 '16 '17 '18 '19 '20, '21 '22" },
+    { "venue": "ACM UbiComp", "years": "'15 '16, '17 '18 '19 '20 '21 '22" },
+    { "venue": "ACM SIGGRAPH", "years": "'19" },
+    { "venue": "ACM MobileHCI", "years": "'15 '16 '17 '18 '19" },
+    { "venue": "ACM DIS", "years": "'16 '17 '18, '19 '20" },
+    { "venue": "ACM TOCHI", "years": "'15" },
+    { "venue": "ACM IMWUT", "years": "'15, '17, '18" }
+  ],
+  "committees": [
+    { "year": "2017", "role": "ACM MobileHCI Program Committee, AC, Workshops" },
+    { "year": "2017", "role": "ACM CHI Program Committee, AC, Late-Breaking Work" },
+    { "year": "2017", "role": "ACM MobileHCI Workshop Co-Organizer" },
+    { "year": "2016", "role": "ACM CHI Program Committee, AC, Late-Breaking Work" }
+  ]
+}

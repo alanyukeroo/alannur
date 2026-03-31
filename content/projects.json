@@ -1,0 +1,181 @@
+[
+  {
+    "slug": "stezio",
+    "title": "Stezio",
+    "description": "AI-powered adapter and web platform that upgrades standard analog stethoscopes into guided, clinical-grade home monitoring tools. Uses AR-based Digital Mirror for real-time anatomical guidance and AI Signal Validation for clinical-grade audio quality.",
+    "year": "2026",
+    "role": "Engineer & Idea Maker",
+    "image": "/images/projects/stezio.jpg",
+    "problem": "Telehealth has a critical blind spot: doctors can see patients but cannot hear them. For 6.7 million Heart Failure patients, existing digital stethoscopes are too expensive ($449+) and difficult to use correctly, leading to poor data and $30 billion in preventable readmission costs. Stezio bridges this gap with a low-cost adapter that upgrades any standard stethoscope into a guided, smart device.",
+    "solution": "Stezio solves the usability barrier with a browser-based \"Digital Mirror.\" Using Augmented Reality (AR), we visually guide the patient's hand to the correct anatomical position in real-time. Our AI then performs \"Signal Validation\" — filtering noise and confirming clinical-grade audio quality — empowering doctors to monitor patients remotely and intervene before hospitalization is needed.",
+    "learning": "Building Stezio taught me to engineer for high-stakes environments. I learned to navigate regulatory constraints by pivoting our AI strategy from \"Automated Diagnosis\" to \"Signal Quality Control,\" ensuring FDA alignment. Technically, this project deepened my expertise in Edge AI, integrating physical hardware with real-time Computer Vision (MediaPipe) and audio processing directly in the browser.",
+    "gallery": [],
+    "links": [
+      { "label": "App", "url": "https://app.stezio.com" },
+      { "label": "Website", "url": "https://stezio.com" },
+      { "label": "Video", "url": "https://www.youtube.com/watch?v=BPlete7JE1k" }
+    ]
+  },
+  {
+    "slug": "plantify",
+    "title": "Plantify",
+    "description": "Global Web3 marketplace where next-gen startups get funded on-chain. Early-stage startup investing open to the public through Real World Asset (RWA) tokenization on Internet Computer blockchain. 3rd place at World Computer Hacker League 2025 out of 11,774 builders.",
+    "year": "2025",
+    "role": "Idea Maker & Product Owner",
+    "image": "/images/projects/hiplantify.jpg",
+    "problem": "Startup investing is broken. It's an exclusive club, legally locking out 99% of the public while trapping investors in illiquid assets for a decade or more. Founders are isolated, forced to raise capital from a small circle of VCs instead of their true community. To address this, we built Plantify, a global marketplace on the Internet Computer blockchain to open early-stage investing to everyone.",
+    "solution": "Plantify allows founders to raise capital directly from their community by issuing tokenized shares. For investors, we provide a curated marketplace of vetted startups and, crucially, a secondary market to trade those investments. This makes startup investing liquid for the first time, allowing everyday people to share in the success of companies they believe in.",
+    "learning": "Building Plantify was a crucial learning experience. I worked closely with founders and retail investors to understand their pain points with the current venture capital system. This journey taught me that to build trust in a new financial platform, the user experience must be simple and transparent, which led to features like our 'AI Investment Banker.' Developing Plantify deepened my understanding of product management, blockchain technology, and how to build a Web2-simple user experience on top of powerful Web3 infrastructure.",
+    "gallery": [],
+    "links": [
+      { "label": "Website", "url": "https://hiplantify.com" },
+      { "label": "Video", "url": "https://www.youtube.com/watch?v=cQ-iDhs8doQ" },
+      { "label": "Demo", "url": "https://youtu.be/qJyrYq5DWLQ" }
+    ]
+  },
+  {
+    "slug": "adol",
+    "title": "Adol",
+    "description": "AI-powered sales platform that transforms selling pre-owned items into a simple text message interaction. Built on Web3 infrastructure using Internet Computer Protocol (ICP) with a personal AI sales agent. Mission: Make selling easier than buying.",
+    "year": "2025",
+    "role": "Product Owner & Idea Maker",
+    "image": "/images/projects/adol.jpg",
+    "gallery": [],
+    "links": [
+      { "label": "DoraHacks", "url": "https://dorahacks.io/buidl/31435" },
+      { "label": "Video", "url": "https://www.youtube.com/watch?v=7DGRhGb1veI" }
+    ]
+  },
+  {
+    "slug": "avatarmu",
+    "title": "Avatarmu",
+    "description": "AI digital human live streaming tool supporting multi-platform live selling on TikTok, Shopee, and Lazada. Helps SMEs and cosmetic brands automate live selling 24/7, reducing operational costs while increasing online sales.",
+    "year": "2023",
+    "role": "Idea Maker & Engineering Lead",
+    "image": "/images/projects/avatarmu.jpg",
+    "problem": "Many SMEs in Indonesia struggle to find reliable live stream hosts for platforms like TikTok, Shopee, and Lazada. Hiring human hosts can be costly and inconsistent, making it difficult for businesses to scale their live-selling efforts. To address this, we built Avatarmu, an AI digital human live streaming tool that automates live selling across multiple platforms.",
+    "solution": "Avatarmu allows businesses to create AI-driven virtual hosts that engage with customers, showcase products, and drive sales 24/7, eliminating the limitations of human hosts. This technology has helped many cosmetic brands increase their online sales while reducing operational costs.",
+    "learning": "Building Avatarmu was a crucial learning experience. I worked closely with my clients in the cosmetics industry, understanding their pain points and refining the product based on real user needs. This journey taught me that direct collaboration with customers is essential in building effective AI-driven solutions. Developing Avatarmu deepened my understanding of e-commerce, AI automation, and the future of digital retail.",
+    "gallery": [],
+    "links": [
+      { "label": "Website", "url": "https://avatarmu.com" },
+      { "label": "Video", "url": "https://www.youtube.com/watch?v=yL8iIwwkNYI" },
+      { "label": "Demo", "url": "https://www.youtube.com/watch?v=noBJioSamOY" }
+    ]
+  },
+  {
+    "slug": "fixransomware",
+    "title": "Fixransomware.com",
+    "description": "Cybersecurity and ransomware decryption company. Scaled to 2,000+ users. Reduced ransomware incidents by 85% for 20+ businesses. Top 3 at SelectUSA Tech 2025 among 48 global finalists — the only Indonesian startup selected.",
+    "year": "2022",
+    "role": "Chief Technology Officer",
+    "image": "/images/projects/fixransomware.jpg",
+    "gallery": [],
+    "links": [
+      { "label": "Website", "url": "https://fixransomware.com" }
+    ]
+  },
+  {
+    "slug": "tulisno",
+    "title": "Tulisno",
+    "description": "AI-powered transcription tool using speech recognition for meetings, interviews, lectures, and discussions. Features real-time captioning with AI-based summarization for quick meeting notes. Champion at East Ventures Hackathon ($25K funding).",
+    "year": "2021",
+    "role": "Engineering Lead & Idea Maker",
+    "image": "/images/projects/tulisno.jpg",
+    "problem": "Quick and effective communication is key in today's complex business world. Journalists record interviews for maximum accuracy and efficiency, making note-taking nearly impossible during vibrant conversations or long meetings. The problem comes when taking that recording and translating it into text — in the past, they had to spend lots of time sitting and transcribing every interview.",
+    "solution": "Tulisno is a transcription tool that uses artificial intelligence to generate transcriptions for meetings, interviews, lectures, and other important voice conversations. It uses real-time AI-based summarization to create quick meeting notes, saving users hours of manual work.",
+    "learning": "As a founder, building Tulisno has been a transformative journey. I've learned the importance of agile development and implemented Scrum to iterate quickly and adapt to user needs. From refining AI models to improving user experience, every challenge has shaped me into a more resilient and strategic entrepreneur.",
+    "gallery": [],
+    "links": [
+      { "label": "Website", "url": "https://transcribe.tulisno.com" },
+      { "label": "Instagram", "url": "https://www.instagram.com/tulisno.ai/" }
+    ]
+  },
+  {
+    "slug": "peed",
+    "title": "PEED (Stezio Origin)",
+    "description": "Smart medical device streaming ear conditions, lung/heart sounds, and body temperature over the internet to doctors. Built with QT, C++, Linux, OpenCV, and REST API. Partnered with AlinaMed and Parahita Clinic. Evolved into the Stezio wireless stethoscope product.",
+    "year": "2021",
+    "role": "Engineering Lead",
+    "image": "/images/projects/peed.jpg",
+    "problem": "Access to remote healthcare is often limited, especially for patients needing real-time monitoring of their vital signs. Many existing solutions lack integration, making remote diagnosis difficult. To address this, we co-founded PEED, a smart medical device that streams real-time data — ear conditions, lung and heart sounds, body temperature, and more — directly to doctors over the internet.",
+    "solution": "Partnering with AlinaMed and Parahita Clinic, we developed PEED to bridge the gap between patients and healthcare professionals. However, building this platform was not easy — advanced hardware manufacturing posed significant challenges. Through iteration and feedback, we realized that many doctors and medical students primarily needed a wireless stethoscope for remote diagnostics. This led to the creation of Stezio, a spin-off product that we are now selling in Indonesia.",
+    "learning": "This journey taught me that building a Minimum Viable Product (MVP) first is crucial. Instead of tackling everything at once, focusing on the core need helped us refine the product and find real market demand. Developing medical hardware is complex, but with persistence, partnerships, and continuous learning, innovation in healthcare is achievable.",
+    "gallery": [],
+    "links": [
+      { "label": "Product", "url": "https://www.tokopedia.com/pttab/trobosa-stezio-k5-wireless-bluetooth-digital-stethoscope-stetoskop" }
+    ]
+  },
+  {
+    "slug": "mycap",
+    "title": "MyCap",
+    "description": "AI-based real-time captioning app with speaker identification, empowering 360M+ deaf people worldwide. Uses speech recognition to convert voice into text, making group conversations between deaf and hearing individuals seamless.",
+    "year": "2020",
+    "role": "Engineer & Idea Maker",
+    "image": "/images/projects/mycap.jpg",
+    "problem": "Deaf individuals often face challenges in following conversations, especially in group settings. Traditional solutions are limited in identifying speakers and displaying clear, real-time captions. To bridge this gap, we developed MyCap, an AI-powered speech recognition tool designed to make communication fully inclusive.",
+    "solution": "MyCap converts speech into text while identifying speakers, ensuring that deaf individuals can follow conversations effortlessly. Our goal is to empower 360 million deaf people worldwide with real-time, accessible communication, making group discussions between deaf and hearing individuals seamless.",
+    "learning": "Developing MyCap has reinforced our belief that technology should break barriers, not create them. Every step in this journey has shown us the importance of accessibility, user experience, and the power of AI in fostering true inclusivity. This is just the beginning — we're committed to reshaping the future of communication for everyone.",
+    "gallery": [],
+    "links": [
+      { "label": "Play Store", "url": "https://play.google.com/store/apps/details?id=id.anforcom.mycap" },
+      { "label": "Video", "url": "https://www.youtube.com/watch?v=BbzXzSG9zQo" },
+      { "label": "Demo", "url": "https://www.youtube.com/watch?v=HyDvVSj73NI" }
+    ]
+  },
+  {
+    "slug": "descotin",
+    "title": "AptaTermal (Descotin)",
+    "description": "AI-powered contactless thermal detection system for COVID-19 screening. Eliminates risks of direct physical contact for temperature measurement using advanced body temperature algorithms integrated into security camera systems. Patented technology.",
+    "year": "2020",
+    "role": "Engineering Lead & Idea Maker",
+    "image": "/images/projects/descotin.jpg",
+    "problem": "During the COVID-19 pandemic, businesses and public spaces needed a fast, contactless way to detect high temperatures and prevent the spread of illness. Traditional temperature checks were slow, required close contact, and posed safety risks. To address this, we developed AptaTermal (now Descotin), an AI-powered thermal detection system that enables real-time, automated temperature screening.",
+    "solution": "Our advanced AI-driven cameras provide instant temperature readings, reducing health risks and improving efficiency in high-traffic areas. Integrated into security systems, Descotin has enhanced safety for thousands, allowing businesses, offices, and public institutions to operate with confidence while protecting their people.",
+    "learning": "Building Descotin taught us that technology must evolve with the needs of society. What started as a pandemic solution has now grown into a broader AI-powered security and monitoring system. The experience reinforced our commitment to innovation, adaptability, and creating solutions that continue to make a lasting impact.",
+    "gallery": [],
+    "links": [
+      { "label": "Press", "url": "https://kumparan.com/beritaanaksurabaya/descotin-pendeteksi-suhu-tubuh-pintar-karya-mahasiswa-surabaya-1tZXFmPSMhQ/full" }
+    ]
+  },
+  {
+    "slug": "tulibot",
+    "title": "Tulibot Smart Gloves & Glasses",
+    "description": "Integrated assistive technology bridging communication for hearing-impaired people. Smart Glasses display real-time speech-to-text captions; Smart Gloves translate sign language gestures into audio output. Over 7,000 users. Global Winner Google DSC Solution Challenge 2020.",
+    "year": "2019",
+    "role": "Engineer & Idea Maker",
+    "image": "/images/projects/tulibot.jpg",
+    "problem": "Tulibot was born from a personal experience — seeing my grandmother struggle to follow conversations due to hearing loss. She often relied on others to understand discussions, which made me realize how many hearing-impaired individuals face similar challenges daily. To bridge this gap, I developed Tulibot: Smart Glasses that convert speech into real-time text and Smart Gloves that translate gestures into speech.",
+    "solution": "Today, Tulibot is making a real difference, with over 7,000 users integrating it into their daily lives. The Smart Glasses allow users to read conversations instantly, while the Smart Gloves give voice to sign language users. These innovations empower the deaf and hard of hearing to communicate independently, fostering confidence and inclusivity in everyday interactions.",
+    "learning": "Building Tulibot has been a journey of learning and impact. Seeing how technology can transform lives has reinforced my passion for accessible solutions. But more importantly, I've learned that true innovation comes from listening to users and continuously improving based on their needs.",
+    "gallery": [],
+    "links": [
+      { "label": "MetroTV", "url": "https://www.youtube.com/watch?v=-RntuZ9oxhc" },
+      { "label": "Google", "url": "https://www.youtube.com/watch?v=QPl5z1fwqtQ" }
+    ]
+  },
+  {
+    "slug": "smart-farming",
+    "title": "AizD Smart Farming",
+    "description": "Visual remote-sensing prototype capturing plant nutrition data and stem size. End-to-end communication pipeline from microcontroller to MERN backend server for agricultural monitoring.",
+    "year": "2019",
+    "role": "Researcher",
+    "image": "/images/projects/smart-farming.jpg",
+    "gallery": [],
+    "links": [
+      { "label": "Details", "url": "#" }
+    ]
+  },
+  {
+    "slug": "ersow",
+    "title": "ERSOW Soccer Robot",
+    "description": "Visual navigation system with ball-tracking algorithm and vision-based localization for a 3-wheeled autonomous soccer robot at EEPIS Robotics Research Center.",
+    "year": "2018",
+    "role": "Researcher",
+    "image": "/images/projects/ersow.jpg",
+    "gallery": [],
+    "links": [
+      { "label": "Details", "url": "#" }
+    ]
+  }
+]

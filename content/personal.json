@@ -1,0 +1,13 @@
+{
+  "intro": "My idea of a happy life is being with family and friends, travelling, learning, and pursuing creative projects. I'm currently into photography — here a few of my favorite shots. High-res versions are available upon request.",
+  "photos": [
+    { "src": "/images/personal/photo1.jpg", "alt": "Tropical paradise" },
+    { "src": "/images/personal/photo2.jpg", "alt": "Ocean view" },
+    { "src": "/images/personal/photo3.jpg", "alt": "Mountain landscape" },
+    { "src": "/images/personal/photo4.jpg", "alt": "Beach sunset" },
+    { "src": "/images/personal/photo5.jpg", "alt": "Desert arch" },
+    { "src": "/images/personal/photo6.jpg", "alt": "Canyon view" },
+    { "src": "/images/personal/photo7.jpg", "alt": "Waterfall" },
+    { "src": "/images/personal/photo8.jpg", "alt": "Coastal cliffs" }
+  ]
+}

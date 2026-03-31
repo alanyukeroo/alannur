@@ -1,0 +1,41 @@
+{
+  "topSkills": [
+    "Go",
+    "Python",
+    "JavaScript",
+    "C / C#",
+    "Objective-C",
+    "Microservices",
+    "Distributed Systems",
+    "RESTful APIs",
+    "gRPC",
+    "System Architecture",
+    "Docker / Kubernetes",
+    "CI/CD (ArgoCD)",
+    "MySQL / Redis",
+    "Kafka",
+    "React",
+    "MERN Stack"
+  ],
+  "aiAndData": [
+    "Artificial Intelligence",
+    "Machine Learning / Deep Learning",
+    "Reinforcement Learning",
+    "Large Language Models (LLMs)",
+    "Data Science",
+    "OpenCV",
+    "Computer Vision"
+  ],
+  "certifications": [
+    "Microsoft Office Specialist - PowerPoint 2013",
+    "MTCNA (MikroTik Certified Network Associate)",
+    "Top Talent CCENT Netriders",
+    "Introduction to Big Data",
+    "Cybersecurity for Everyone"
+  ],
+  "languages": [
+    { "language": "Bahasa Indonesia", "proficiency": "Native or Bilingual" },
+    { "language": "English", "proficiency": "Full Professional" },
+    { "language": "Javanese", "proficiency": "Native or Bilingual" }
+  ]
+}
